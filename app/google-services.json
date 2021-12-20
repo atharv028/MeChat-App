@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471770901944",
+    "firebase_url": "https://mechat-f3a7a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mechat-f3a7a",
+    "storage_bucket": "mechat-f3a7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471770901944:android:f485c9d18d255cd37cb34d",
+        "android_client_info": {
+          "package_name": "com.tare.mechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471770901944-bkbt3vdu7t1aj6d0v9il76448buo02ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tare.mechat",
+            "certificate_hash": "f5be8e832d83c99e9bc73a2255884312336dee95"
+          }
+        },
+        {
+          "client_id": "471770901944-vuuebu2r7mkpkim2dob2nb1him5cd80v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPmLBYnzbtc0y2p14_pglwWxh-eYBvZFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471770901944-vuuebu2r7mkpkim2dob2nb1him5cd80v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeChat</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="signout">SignOut</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send">Send</string>
+</resources>
