@@ -7,3 +7,17 @@ The primary objective of the android app MeChat is to allow the user of this app
 
 ***
 
+
+<h3>Screenshots</h3>
+
+<div class="row">
+      <img src="/ScreenShots/Screenshot MeChat 2021-12-20 at 8.43.16 PM (1).jpeg" width="250" title="Register Page">
+      <img src="/ScreenShots/Screenshot MeChat 2021-12-20 at 8.43.16 PM.jpeg" width="250" title="Login Page">     
+      <img src="/ScreenShots/Screenshot MeChat 2021-12-20 at 8.43.17 PM (2).jpeg" width="250" title="Home Page">
+</div>
+
+<div class="row">
+      <img src="/ScreenShots/Screenshot MeChat 2021-12-20 at 8.43.17 PM.jpeg" width="250" title="New Chat">
+      <img src="/ScreenShots/Screenshot MeChat 2021-12-20 at 8.43.17 PM (1).jpeg" width="250" title="Chat Log">
+      <img src="/ScreenShots/Screenshot MeChat 2021-12-20 at 8.43.15 PM.jpeg" width="250" title="Send Message">
+</div>
